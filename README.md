@@ -1,5 +1,5 @@
 # Bem vindo, me chamo Gabriel
-  - 📚 Cursando Sistemas de Informação pela [Unifacisa](https://www.unifacisa.edu.br/home) no segundo período.
+  - 📚 Cursando Sistemas de Informação pela [Unifacisa](https://www.unifacisa.edu.br/home), no segundo período.
   - 💬 Fale comigo sobre Java e Spring
 
 ## Fale Comigo
