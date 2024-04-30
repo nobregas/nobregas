@@ -1,4 +1,9 @@
-##Bem vindo ao meu perfil 👋
+# Bem vindo, me chamo Gabriel
+  - 📚 Cursando Sistemas de Informação pela [Unifacisa](https://www.unifacisa.edu.br/home) no segundo período.
+
+## Fale Comigo
+![[Email](mailto:gabrielnobregasantos2@gmail.com)](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+![[Linkedin](https://www.linkedin.com/in/gabriel-n%C3%B3brega/)](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 
 <div>
   <a href="https://github.com/nobregas">
