@@ -5,13 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-n%C3%B3brega-b0916a289/)
 [![Email](https://img.shields.io/badge/gabrielnobregasantos2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielnobregasantos2@gmail.com)
 
-## ⚙️ Analytics
-<div>
-  <a href="https://github.com/nobregas">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobregas&layout=compact&langs_count=8&theme=dracula" />
-  </a>
-</div><br>
-
 ## 🛠 Tech's
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
