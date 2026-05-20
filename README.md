@@ -1,5 +1,5 @@
 # Bem vindo, me chamo Gabriel
-  - 📚 Cursando Sistemas de Informação pela [Unifacisa](https://www.unifacisa.edu.br/home), no quarto período.
+  - 📚 Cursando Sistemas de Informação pela [Unifacisa](https://www.unifacisa.edu.br/home), no quinto período.
 
 ## Fale Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-n%C3%B3brega-b0916a289/)
